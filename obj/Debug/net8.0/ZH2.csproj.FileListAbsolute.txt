@@ -1,0 +1,14 @@
+/Users/taritibor/Documents/Suli/2. Szemeszter/OOP/ZH2/bin/Debug/net8.0/ZH2
+/Users/taritibor/Documents/Suli/2. Szemeszter/OOP/ZH2/bin/Debug/net8.0/ZH2.deps.json
+/Users/taritibor/Documents/Suli/2. Szemeszter/OOP/ZH2/bin/Debug/net8.0/ZH2.runtimeconfig.json
+/Users/taritibor/Documents/Suli/2. Szemeszter/OOP/ZH2/bin/Debug/net8.0/ZH2.dll
+/Users/taritibor/Documents/Suli/2. Szemeszter/OOP/ZH2/bin/Debug/net8.0/ZH2.pdb
+/Users/taritibor/Documents/Suli/2. Szemeszter/OOP/ZH2/obj/Debug/net8.0/ZH2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taritibor/Documents/Suli/2. Szemeszter/OOP/ZH2/obj/Debug/net8.0/ZH2.AssemblyInfoInputs.cache
+/Users/taritibor/Documents/Suli/2. Szemeszter/OOP/ZH2/obj/Debug/net8.0/ZH2.AssemblyInfo.cs
+/Users/taritibor/Documents/Suli/2. Szemeszter/OOP/ZH2/obj/Debug/net8.0/ZH2.csproj.CoreCompileInputs.cache
+/Users/taritibor/Documents/Suli/2. Szemeszter/OOP/ZH2/obj/Debug/net8.0/ZH2.dll
+/Users/taritibor/Documents/Suli/2. Szemeszter/OOP/ZH2/obj/Debug/net8.0/refint/ZH2.dll
+/Users/taritibor/Documents/Suli/2. Szemeszter/OOP/ZH2/obj/Debug/net8.0/ZH2.pdb
+/Users/taritibor/Documents/Suli/2. Szemeszter/OOP/ZH2/obj/Debug/net8.0/ZH2.genruntimeconfig.cache
+/Users/taritibor/Documents/Suli/2. Szemeszter/OOP/ZH2/obj/Debug/net8.0/ref/ZH2.dll

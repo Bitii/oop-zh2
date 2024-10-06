@@ -1,0 +1,3 @@
+cd;Rod Stewart;Soulbook
+peldatar;Szabo Tamas;Kalkulus II. peldatar;100
+regeny;Robert Charles Wilson;Porges;Ez a rovid tartalom...
